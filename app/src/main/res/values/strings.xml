@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">7 Wonders of The World</string>
+    <string name="title">Historical Monuments</string>
+    <string name="button">Start</string>
+    <string name="credit">Credit : Shadab Arzoo</string>
+    <string name="Date">date</string>
+    <string name="location" />
+    <string name="Name" />
+    <string name="madeby" />
+</resources>
